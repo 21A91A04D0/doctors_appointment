@@ -1,0 +1,25 @@
+.card1{
+    margin-top: 100px;
+    height: 100%;
+    width: 250px;
+    border: 1px solid;
+    display:inline-block;
+    box-shadow: 3px 1px 1px 1px silver;
+    margin: 20px;
+    border-radius: 50%;
+    
+}
+.img{
+    height: 20vh;
+    width: 100%;
+    border-radius: 50%;
+}
+.he{
+    color: black;
+}
+
+.services{
+    background-image: url('../images/book.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+} 

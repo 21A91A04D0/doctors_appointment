@@ -1,0 +1,25 @@
+.cd{
+    margin-top: 100px;
+    height: 100%;
+    width: 200px;
+    border: 1px solid;
+    display:inline-block;
+    box-shadow: 3px 1px 1px 1px;
+    margin: 20px;
+    
+}
+.img{
+    height: 20vh;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.he{
+    margin-top: 10px;
+    color: black;
+}
+.about{
+    background-image: url('../images/book.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

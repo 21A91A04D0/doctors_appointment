@@ -1,0 +1,48 @@
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+.loginpage{
+    background-image: url('../images/logi.avif');
+    background-size: cover;
+}
+.regi{
+    background-image: url('../images/regi.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.book{
+    background-image: url('../images/book.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.form-container {
+    width: 90%; /* Use a percentage for width */
+    max-width: 350px;
+ 
+    border: 1px solid black;    
+    background-color: rgba(29, 192, 64, 0.498);
+    color: black;
+    box-shadow: 1px 1px 5px black, -1px -1px 5px black;
+
+}
+
+.button {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.lb, .ip {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.redirect {
+    margin-top: 20px;
+}
+
